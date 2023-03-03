@@ -33,7 +33,7 @@ name: Publish SocialPI Docker Image
 on:
   push:
     branches:
-      -'main'
+      - 'main'
 
 jobs:
   push_to_registry:
